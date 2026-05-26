@@ -1,0 +1,1 @@
+I created the basic structure of a React shopping app with pages, routing, product cards, product details, cart, contact page, and cart context. Use AI to debug the code, fix errors, correct import paths, complete missing components, improve cart functionality, and enhance the UI into a premium luxury theme using green, gold, and black colors.
